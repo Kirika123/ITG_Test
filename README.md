@@ -3,7 +3,7 @@
 - Java 8
 
 #### Package installation
-Open terminal, navigate to coding-test folder.
+Open terminal, navigate to ```coding-test``` folder.
 Execute the following command on your terminal to build project and run junit tests
 <br/>
 ```mvn install```
